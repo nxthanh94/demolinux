@@ -1,0 +1,6 @@
+﻿Vấn đề chưa xử lý được:
+
+- Lấy thông tin từ path Input để hiển thị
+- Run job:
+  + Preview job
+  + Run job upload S3
